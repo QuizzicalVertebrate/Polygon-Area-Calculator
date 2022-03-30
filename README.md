@@ -1,3 +1,3 @@
 # Polygon-Area-Calculator
 
-#Fresh and individual code in completion of the FreeCodeCamp priject of the same name. 
+#Fresh and individual code in completion of the FreeCodeCamp project of the same name. 
